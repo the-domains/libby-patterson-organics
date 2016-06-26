@@ -1,14 +1,14 @@
-layout_spectrum: 0.26460992195643485
-typography_spectrum: 0.8917529229074717
 color:
+  brandColors:
+    - '#C5C273'
+    - '#E956E4'
+    - '#252316'
+    - '#EFE0CB'
+    - '#A64A6F'
   brandStrength: 0.12500490969978273
   lightness: 0.9953421209938824
-  saturation: 0.8488943001721054
   rhythmicContrast: 0.8004127582535148
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+  saturation: 0.8488943001721054
+layout_spectrum: 0.26460992195643485
 name: 'Libby Patterson Organics '
+typography_spectrum: 0.8917529229074717
